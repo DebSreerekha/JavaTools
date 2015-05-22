@@ -14,6 +14,8 @@ public class TestJUnit {
 		//fail("Not yet implemented");
 		String str = "Junit is working fine **" ;
 		assertEquals("Junit is working fine",str);
+		
+		// testing GIT chcek in 
 	}
 
 }
